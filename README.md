@@ -15,7 +15,9 @@
 
 <h1 align="center"></h1>
 <h3><u>About Me</u></h3>
+
 <p>Hailing from the Adelaide Hills, South Australia, I have worked in various industries, such as:</p>
+
 <ul>
   <li>Manufacturing</li>
   <li>Hospitality</li>
@@ -34,7 +36,7 @@ My programming interests at the moment (to learn) are:
   <li>Shaders - HLSL.</li>
   <li>Data Structures - AVL Trees, Binary Trees, Node based structures.</li>
   <li>Procedural Generation - Wave Function Collapse, Noise, Game of Life</li>
-  <li>Pathfinding Algorithms - Dijkstras, A*</li>
+  <li>Pathfinding Algorithms - Dijkstras, A*, Boids</li>
   <li>Physics Simulations - Collisions</li>
 </ul>
 
