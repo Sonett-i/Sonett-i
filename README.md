@@ -1,6 +1,12 @@
 <h1 align="center">Sonetti</h1>
 
-<div align="center"><img src="https://sonetti.net/images/Schroeder's_stairs2.png" width="207.5" height="177" align="center" /></div>
+<div align="center">
+  <img src="https://sonetti.net/images/Schroeder's_stairs2.png" width="207.5" height="177" align="center" />
+  <br />
+  <br />
+  <a href="https://www.youtube.com/@Sonetti./"><img src="https://www.youtube.com/s/desktop/0646520c/img/favicon_144x144.png" width="20" height="20" /></a>
+  <a href="https://open.spotify.com/artist/7lbSKPOhlPHCRSyoh0s5q4?si=e43c7f059803478a"><img src="https://open.spotifycdn.com/cdn/images/favicon16.1c487bff.png" width="20" height="20" /></a>
+</div>
 
 
 <h1 align="center"></h1>
@@ -17,11 +23,20 @@
   <li>Agriculture</li>
 </ul>
 
-I am currently pursuing a Bachelor of Software Engineering, focusing on Game Programming. My current ETA for completing this is: <b>2025</b>.</p>
+Currently, I am pursuing a Bachelor of Software Engineering at Torrens University Australia, focusing on Game Programming. My current ETA for completing this is: <b>2025</b>.</p>
 
 <h1 align="center"></h1>
 <h3>Interests</h3>
 
+My programming interests at the moment (to learn) are:
+
+<ul>
+  <li>Shaders - HLSL.</li>
+  <li>Data Structures - AVL Trees, Binary Trees, Node based structures.</li>
+  <li>Procedural Generation - Wave Function Collapse, Noise, Game of Life</li>
+  <li>Pathfinding Algorithms - Dijkstras, A*</li>
+  <li>Physics Simulations - Collisions</li>
+</ul>
 
 <!---
 Sonett-i/Sonett-i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
