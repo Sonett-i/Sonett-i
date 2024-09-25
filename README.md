@@ -6,9 +6,7 @@
   <br />
   <a href="https://www.youtube.com/@Sonetti./"><img src="https://www.youtube.com/s/desktop/0646520c/img/favicon_144x144.png" width="20" height="20" /></a>
   <a href="https://www.linkedin.com/in/sam-catcheside-54805a262/"><img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" width="20" height="20" /></a>
-  <a href="https://open.spotify.com/artist/7lbSKPOhlPHCRSyoh0s5q4?si=e43c7f059803478a"><img src="https://open.spotifycdn.com/cdn/images/favicon16.1c487bff.png" width="20" height="20" /></a>
 </div>
-
 
 <h1 align="center"></h1>
 
