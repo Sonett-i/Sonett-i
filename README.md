@@ -5,13 +5,14 @@
   <br />
   <br />
   <a href="https://www.youtube.com/@Sonetti./"><img src="https://www.youtube.com/s/desktop/0646520c/img/favicon_144x144.png" width="20" height="20" /></a>
+  <a href="https://www.linkedin.com/in/sam-catcheside-54805a262/"><img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" width="20" height="20" /></a>
   <a href="https://open.spotify.com/artist/7lbSKPOhlPHCRSyoh0s5q4?si=e43c7f059803478a"><img src="https://open.spotifycdn.com/cdn/images/favicon16.1c487bff.png" width="20" height="20" /></a>
 </div>
 
 
 <h1 align="center"></h1>
 
-<p>Hi, I'm Sonetti; a Musician, Music Producer, Software Engineer and <i>Game Designer</i>. I am interested in the creative realm where <i>logic</i>, <i>math</i> and <i>programming</i> can mix with music and art to showcase my creativity with interesting aural and visual experiences.</p>
+<p>Hi, I'm Sam; a Musician, Music Producer, Software Engineer and <i>Game Programmer</i>. I am interested in the creative realm where <i>math</i> and <i>programming</i> and problem solving mix with music and art to create wonderful audio and visual experiences.</p>
 
 <h1 align="center"></h1>
 <h3><u>About Me</u></h3>
@@ -30,14 +31,12 @@ Currently, I am pursuing a Bachelor of Software Engineering at Torrens Universit
 <h1 align="center"></h1>
 <h3>Interests</h3>
 
-My programming interests at the moment (to learn) are:
+My programming interests:
 
 <ul>
   <li>Shaders - HLSL.</li>
-  <li>Data Structures - AVL Trees, Binary Trees, Node based structures.</li>
-  <li>Procedural Generation - Wave Function Collapse, Noise, Game of Life</li>
-  <li>Pathfinding Algorithms - Dijkstras, A*, Boids</li>
-  <li>Physics Simulations - Collisions</li>
+  <li>Data Structures and Algorithms</li>
+  <li>The Render Pipeline</li>
 </ul>
 
 <!---
