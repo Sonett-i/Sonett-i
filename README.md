@@ -1,4 +1,4 @@
-<h1 align="center">Sonetti</h1>
+<h1 align="center">Sam</h1>
 
 <div align="center">
   <img src="https://sonetti.net/images/Schroeder's_stairs2.png" width="207.5" height="177" align="center" />
