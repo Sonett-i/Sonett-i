@@ -1,7 +1,7 @@
 <h1 align="center">Sam</h1>
 
 <div align="center">
-  <img src="https://sonetti.net/images/Schroeder's_stairs2.png" width="207.5" height="177" align="center" />
+  <img src="https://i.imgur.com/0RYz8xb.jpeg" width="207.5" height="177" align="center" />
   <br />
   <br />
   <a href="https://www.youtube.com/@Sonetti./"><img src="https://www.youtube.com/s/desktop/0646520c/img/favicon_144x144.png" width="20" height="20" /></a>
