@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/0552ecb3-d8e9-4d9c-9ce6-7155dfe3a8eb
 
 <h1 align="center"></h1>
 
-<p>Hi, I'm Sam; a Musician, Music Producer, Software Engineer and <i>Game Programmer</i>. I am interested in the creative realm where <i>math</i> and <i>programming</i> and problem solving mix with music and art to create wonderful audio and visual experiences.</p>
+<p>Hi, I'm Sam; a Musician, Composer, Software Engineer and <i>Game Programmer</i>. The creative space where <i>math</i> and <i>programming</i> converge with music and art to create interesting audiovisual experiences.</p>
 
 <h1 align="center"></h1>
 <h3><u>About Me</u></h3>
@@ -42,8 +42,3 @@ My programming interests:
   <li>Data Structures and Algorithms</li>
   <li>The Render Pipeline</li>
 </ul>
-
-<!---
-Sonett-i/Sonett-i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
